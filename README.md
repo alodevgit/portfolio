@@ -13,7 +13,7 @@
 
 **Skills:** Android · LinkedIn · HTML5 · Python (Programming Language) · Artificial Intelligence (AI) · JSON · Microsoft Excel
 
-![a6f780f649cc8fe03143da3952bec6cf.png](:/6d6649e62b76418b83fd3dd54f21fd92)
+https://github.com/alodevgit/portfolio/blob/main/images/2dgame.png
 
 
 ## 🤖 Offline Usable and Distributed, public transportation planner & offer finder app
