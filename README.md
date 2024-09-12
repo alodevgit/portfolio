@@ -1,5 +1,11 @@
-# portfolio
+# PORTFOLIO
 
+- [🏆 🟤 🤖 AI Projects](#ai-projects)
+  * [🤖 LinkedIn Job/Candidate Hunter Magazine App](#finder)
+  * [🤖 Offline Usable and Distributed, public transportation planner & offer finder app](#vtuber)
+
+
+<a name="ai-projects"/>
 
 # 🏆 🟤 🤖 AI Projects
 ## 🤖 LinkedIn Job/Candidate Hunter Magazine App
@@ -14,6 +20,8 @@
 **Skills:** Android · LinkedIn · HTML5 · Python (Programming Language) · Artificial Intelligence (AI) · JSON · Microsoft Excel
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/magazineB.png" width="200" />
+
+<a name="finder"/>
 
 ## 🤖 Offline Usable and Distributed, public transportation planner & offer finder app
 
@@ -34,6 +42,7 @@
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/maps.jpg" width="200" />
 
+<a name="vtuber"/>
 
 ## 🤖 Social Media interactable & Automated AI VTUBER with Customizable Personality
 
