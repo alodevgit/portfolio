@@ -23,7 +23,7 @@
   * [🎥 Twitch Stream Avatars M.U.G.E.N character importer](#avatars)
 - [🏆 🟣 👾 Videogames](#videogames)
   * [👾 GTA old school 2d clone](#clone)
-  * [👾 I.K.E.M.E.N 2 player double roster fix](#roster)
+  * [👾 I.K.E.M.E.N 2 player double roster fix](#ikemen)
   * [👾 Karaoke game mass multimedia Importer](#karaoke)
   * [👾 M.U.G.E.N & I.K.E.M.E.N super jump & combo importer](#combo)
   * [👾 Vampire Bloodlines: The Masquerade mod fix](#vampire)
