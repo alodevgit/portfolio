@@ -168,7 +168,7 @@ STREAMERBOT | OBS | C# | PYTHON
 
 **Skills:** Streamerbot · OBS · C# · Python (Programming Language)
 
-<img src="https://github.com/alodevgit/portfolio/blob/main/images/manaB.jpg" width="200" />
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/manaB.png" width="200" />
 
 ## 🎬 Youtube Music Twitch OBS plugin
 
