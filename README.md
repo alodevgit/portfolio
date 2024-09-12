@@ -13,8 +13,7 @@
 
 **Skills:** Android · LinkedIn · HTML5 · Python (Programming Language) · Artificial Intelligence (AI) · JSON · Microsoft Excel
 
-https://github.com/alodevgit/portfolio/blob/main/images/2dgame.png
-
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/magazineB.png" width="200" />
 
 ## 🤖 Offline Usable and Distributed, public transportation planner & offer finder app
 
@@ -33,7 +32,8 @@ https://github.com/alodevgit/portfolio/blob/main/images/2dgame.png
 
 **Skills:** Android · Java · REST APIs · Geographic Information Systems (GIS) · ArcGIS Products · Full-Stack Development · JSON · OSM · SQLite · MySQL · Artificial Intelligence (AI)
 
-![26b3bf67ebda3b8642f73abed26113bf.png](:/de5ea1f773b44c129e2fdaf91a3f728f)
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/maps.jpg" width="200" />
+
 
 ## 🤖 Social Media interactable & Automated AI VTUBER with Customizable Personality
 
@@ -49,7 +49,7 @@ https://github.com/alodevgit/portfolio/blob/main/images/2dgame.png
 
 • Can also interact offline on desktop
 
-![254ad9fa74e0cda1358ad91c68edc02b.png](:/610884272e914555ae74ce44c82eb2ea)
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/VTb.JPG" width="200" />
 
 
 ## 🤖 Goalkeeper Robot
@@ -61,7 +61,7 @@ https://github.com/alodevgit/portfolio/blob/main/images/2dgame.png
 
 **Skills:** Blender · Python (Programming Language)
 
-![82e817ba0271c9ac247511db5311a956.png](:/6bee7038c716421c875ebeb7bf164865)
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/robB.png" width="200" />
 
 ## 🤖 OBS Offline Voice Translator TTS & STT
 **OBS | PYTHON**
@@ -86,7 +86,8 @@ https://github.com/alodevgit/portfolio/blob/main/images/2dgame.png
 • Displays and sorts SnapChat filters to OBS
 
 **Skills**: OBS · Python (Programming Language) · Android · Snapchat
-![d43ef29d712cb15d9c889e5f3e40d4e3.png](:/5381643dbd284685bcc4cddf764e38dc)
+
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/snapB.jpg" width="200" />
 
 
 ## 🎬 OBS CSS Universal Social Media & Message app chat
@@ -133,7 +134,7 @@ TWITCH | CSS3 | HTML5 | JAVASCRIPT | OBS | SOCIALS API
 
 **Skills:** OBS · Python (Programming Language) · Cascading Style Sheets (CSS) · HTML5
 
-![1ec33b23e1200cf0755eac98c4b3ba51.png](:/729a8bc300824fbbaf00a4c5883cf143)
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/Media ImporterB.JPG" width="200" />
 
 ## 🎬 OBS UDP and RTSP on VLC by default
 
@@ -143,7 +144,7 @@ OBS | PYTHON | VLC
 
 **Skills:** OBS · Python (Programming Language) · VLC
 
-![ba29d22585e3d953bea38f337926a448.png](:/3e5ca5d2ff6d40db94ed843f3045f3bb)
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/RTMPb.jpg" width="200" />
 
 ## 🎬 OBS Unofficial Mobile controller fixes
 
@@ -155,7 +156,7 @@ OBS | PYTHON | VLC
 
 **Skills:** Android · Flutter · OBS · Python (Programming Language)
 
-![0d9ec0844efccc178151ff17746d4711.png](:/44a8b1f3a9ee482a839c85f6f8d9b4ec)
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/fixesB.JPG" width="200" />
 
 ## 🎬 StreamerBot Media Importer to Streamdeck for OBS conversion
 
@@ -167,7 +168,7 @@ STREAMERBOT | OBS | C# | PYTHON
 
 **Skills:** Streamerbot · OBS · C# · Python (Programming Language)
 
-![141c0931060588be4510087124ab8ef0.png](:/f3158cfac9ce4d2483bc952842aa60d1)
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/manaB.jpg" width="200" />
 
 ## 🎬 Youtube Music Twitch OBS plugin
 
@@ -227,7 +228,8 @@ CSS | OBS | TWITCH | YOUTUBE
 • Driving, shooting, items, AI and boss mechanics
 
 **Skills:** Twitch API · Lua · Javascript · JSX
-![0660ac6e33544def3acffe03a5191676.png](:/68a2a766217b47e0b79de9fcbf1d90ae)
+
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/2dgame.png" width="200" />
 
 ## 👾 I.K.E.M.E.N 2 player double roster fix
 
@@ -247,13 +249,16 @@ CSS | OBS | TWITCH | YOUTUBE
 
 **Skills:** Python · Json · SQL · Excel · VisualBasic
 
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/karaokeB.png" width="200" />
+
 ## 👾 M.U.G.E.N & I.K.E.M.E.N super jump & combo importer
 **LUA**
 
 • Adds super jump, & combo functions to M.U.G.E.N characters by default
 
 **Skills:** Lua
-![a32d93b480dede70a6871c66ab36a01a.png](:/231e9acc162144afba752623c2386c3d)
+
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/gameB.jpg" width="200" />
 
 ## 👾 Vampire Bloodlines: The Masquerade mod fix
 **PYTHON**
@@ -261,7 +266,8 @@ CSS | OBS | TWITCH | YOUTUBE
 • Edited the finite state machine of Vampire Bloodlines: The Masquerade to fix questlines
 
 **Skills:** Python
-![d5c3c348a5f1472e8242915af7182f08.png](:/c0c45465fcb947cca1151c1c58ce4e1c)
+
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/moddingB.jpg" width="200" />
 
 # 🏆 🔘 📡 Internet of Things
 
@@ -276,7 +282,7 @@ CSS | OBS | TWITCH | YOUTUBE
 
 **Skills:** Arduino · Java · Android
 
-![857d70397261325d2cfe5ac36a44a52a.png](:/9b895f1c920c444d8bf84cebb4e19d32)
+<img src="https://github.com/alodevgit/portfolio/blob/main/images/arduinoAndroidB.jpg" width="200" />
 
 
 # 🏆 🔵 🌐 Web & CMS
