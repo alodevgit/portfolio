@@ -1,13 +1,42 @@
 # PORTFOLIO
 
-- [🏆 🟤 🤖 AI Projects](#ai-projects)
+- [🏆 🟤 🤖 AI Projects](#ai)
   * [🤖 LinkedIn Job/Candidate Hunter Magazine App](#finder)
-  * [🤖 Offline Usable and Distributed, public transportation planner & offer finder app](#vtuber)
+  * [🤖 Offline Usable and Distributed, public transportation planner & offer finder app](#transport)
+  * [🤖 Social Media interactable & Automated AI VTUBER with Customizable Personality](#vtuber)
+  * [🤖 Goalkeeper Robot](#robot)
+  * [🤖 OBS Offline Voice Translator TTS & STT](#stt)
+- [🏆 🟠 🎬 Multimedia Projects](#multimedia)
+  * [🎬 SnapChat OBS Manager](#snap)
+  * [🎬 OBS CSS Universal Social Media & Message app chat](#chat)
+  * [🎬 OBS Fighting Game Roster Plugin](#roster)
+  * [🎬 OBS Fighting Game Win Count Plugin](#counter)
+  * [🎬 OBS Mass Media Importer](#importer)
+  * [🎬 OBS UDP and RTSP on VLC by default](#vlc)
+  * [🎬 OBS Unofficial Mobile controller fixes](#obs)
+  * [🎬 StreamerBot Media Importer to Streamdeck for OBS conversion](#streamerbot)
+  * [🎬 Youtube Music Twitch OBS plugin](#youtube)
+- [🏆 🟢 🎥 Twitch Automation](#twitch)
+  * [🎥 Twitch CSS Overlays](#overlays)
+  * [🎥 Twitch Clip Highlights and Credits Screen](#credits)
+  * [🎥 Twitch Currency Sustitutor for Currency Commands & Automation](#currency)
+  * [🎥 Twitch Stream Avatars M.U.G.E.N character importer](#avatars)
+- [🏆 🟣 👾 Videogames](#videogames)
+  * [👾 GTA old school 2d clone](#clone)
+  * [👾 I.K.E.M.E.N 2 player double roster fix](#roster)
+  * [👾 Karaoke game mass multimedia Importer](#karaoke)
+  * [👾 M.U.G.E.N & I.K.E.M.E.N super jump & combo importer](#combo)
+  * [👾 Vampire Bloodlines: The Masquerade mod fix](#vampire)
+- [🏆 🔘 📡 Internet of Things](#internet)
+  * [📡 Arduino to Android Sensors Device](#arduino)
+- [🏆 🔵 🌐 Web & CMS](#web)
 
-
-<a name="ai-projects"/>
+<a name="ai"/>
 
 # 🏆 🟤 🤖 AI Projects
+
+<a name="finder"/>
+
 ## 🤖 LinkedIn Job/Candidate Hunter Magazine App
 
 **AI | ANDROID | HTML5 | JSON | LinkedIn | PYTHON | Pandas | Excel**
@@ -21,7 +50,7 @@
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/magazineB.png" width="200" />
 
-<a name="finder"/>
+<a name="transport"/>
 
 ## 🤖 Offline Usable and Distributed, public transportation planner & offer finder app
 
@@ -60,6 +89,7 @@
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/VTb.JPG" width="200" />
 
+<a name="robot"/>
 
 ## 🤖 Goalkeeper Robot
 **C | BLENDER | OPENCV | PYTHON**
@@ -72,6 +102,8 @@
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/robB.png" width="200" />
 
+<a name="stt"/>
+
 ## 🤖 OBS Offline Voice Translator TTS & STT
 **OBS | PYTHON**
 
@@ -83,8 +115,11 @@
 
 **Skills:** Python (Programming Language)
 
+<a name="multimedia"/>
 
 # 🏆 🟠 🎬 Multimedia Projects
+
+<a name="snap"/>
 
 ## 🎬 SnapChat OBS Manager
 
@@ -98,6 +133,7 @@
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/snapB.jpg" width="200" />
 
+<a name="chat"/>
 
 ## 🎬 OBS CSS Universal Social Media & Message app chat
 
@@ -108,6 +144,8 @@ TWITCH | CSS3 | HTML5 | JAVASCRIPT | OBS | SOCIALS API
 • Customizable design
 
 **Skills:** Twitch · Cascading Style Sheets (CSS) · HTML5 · JavaScript · OBS · Social Media
+
+<a name="roster"/>
 
 ## 🎬 OBS Fighting Game Roster Plugin
 
@@ -121,6 +159,8 @@ TWITCH | CSS3 | HTML5 | JAVASCRIPT | OBS | SOCIALS API
 
 **Skills:** JavaScript · HTML5 · JSON · Python (Programming Language) · Cascading Style Sheets (CSS) · OBS
 
+<a name="counter"/>
+
 ## 🎬 OBS Fighting Game Win Count Plugin
 
 **PYTHON | OBS | JAVASCRIPT | JSON | CSS3 | HTML**
@@ -130,6 +170,8 @@ TWITCH | CSS3 | HTML5 | JAVASCRIPT | OBS | SOCIALS API
 • Then the streamer can scroll the players or update their win count with 1 switch button within OBS
 
 **Skills:** OBS · Python (Programming Language) · JavaScript · JSON · HTML5 · Cascading Style Sheets (CSS)
+
+<a name="importer"/>
 
 ## 🎬 OBS Mass Media Importer
 
@@ -145,6 +187,8 @@ TWITCH | CSS3 | HTML5 | JAVASCRIPT | OBS | SOCIALS API
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/Media ImporterB.JPG" width="200" />
 
+<a name="vlc"/>
+
 ## 🎬 OBS UDP and RTSP on VLC by default
 
 OBS | PYTHON | VLC
@@ -154,6 +198,8 @@ OBS | PYTHON | VLC
 **Skills:** OBS · Python (Programming Language) · VLC
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/RTMPb.jpg" width="200" />
+
+<a name="obs"/>
 
 ## 🎬 OBS Unofficial Mobile controller fixes
 
@@ -167,6 +213,8 @@ OBS | PYTHON | VLC
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/fixesB.JPG" width="200" />
 
+<a name="streamerbot"/>
+
 ## 🎬 StreamerBot Media Importer to Streamdeck for OBS conversion
 
 STREAMERBOT | OBS | C# | PYTHON
@@ -179,6 +227,8 @@ STREAMERBOT | OBS | C# | PYTHON
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/manaB.png" width="200" />
 
+<a name="youtube"/>
+
 ## 🎬 Youtube Music Twitch OBS plugin
 
 CSS | OBS | TWITCH | YOUTUBE
@@ -187,7 +237,12 @@ CSS | OBS | TWITCH | YOUTUBE
 
 **Skills:** Cascading Style Sheets (CSS) · OBS · Twitch · YouTube
 
+<a name="twitch"/>
+
 # 🏆 🟢 🎥 Twitch Automation
+
+<a name="overlays"/>
+
 ## 🎥 Twitch CSS Overlays
 
 **TWITCH API | CSS**
@@ -195,6 +250,8 @@ CSS | OBS | TWITCH | YOUTUBE
 • Display a Twitch streamer’s data in OBS overlays
 
 **Skills:** Twitch API · CSS
+
+<a name="credits"/>
 
 ## 🎥 Twitch Clip Highlights and Credits Screen
 **TWITCH API | CSS | JAVASCRIPT | PHP**
@@ -205,6 +262,8 @@ CSS | OBS | TWITCH | YOUTUBE
 
 **Skills:** Twitch API · CSS · Javascript · PHP
 
+<a name="currency"/>
+
 ## 🎥 Twitch Currency Sustitutor for Currency Commands & Automation
 **TWITCH API | PYTHON**
 
@@ -213,6 +272,8 @@ CSS | OBS | TWITCH | YOUTUBE
 • Currency not tied to Twitch Partnerships
 
 **Skills:** Twitch API · Python
+
+<a name="avatars"/>
 
 ## 🎥 Twitch Stream Avatars M.U.G.E.N character importer
 **TWITCH API | LUA | JAVASCRIPT | JSX**
@@ -227,7 +288,12 @@ CSS | OBS | TWITCH | YOUTUBE
 
 **Skills:** Twitch API · Lua · Javascript · JSX
 
+<a name="videogames"/>
+
 # 🏆 🟣 👾 Videogames
+
+<a name="clone"/>
+
 ## 👾 GTA old school 2d clone 
 
 **C++ | PYTHON**
@@ -240,6 +306,8 @@ CSS | OBS | TWITCH | YOUTUBE
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/2dgame.png" width="200" />
 
+<a name="ikemen"/>
+
 ## 👾 I.K.E.M.E.N 2 player double roster fix
 
 **LUA**
@@ -248,6 +316,8 @@ CSS | OBS | TWITCH | YOUTUBE
 • Displays a scrollable 2 player rosterLUA • Recovered legacy feature for the game engine
 
 **Skills:** Lua
+
+<a name="karaoke"/>
 
 ## 👾 Karaoke game mass multimedia Importer
 **PYTHON | JSON | SQL | Excel | VisualBasic**
@@ -260,6 +330,8 @@ CSS | OBS | TWITCH | YOUTUBE
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/karaokeB.png" width="200" />
 
+<a name="combo"/>
+
 ## 👾 M.U.G.E.N & I.K.E.M.E.N super jump & combo importer
 **LUA**
 
@@ -268,6 +340,8 @@ CSS | OBS | TWITCH | YOUTUBE
 **Skills:** Lua
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/gameB.jpg" width="200" />
+
+<a name="vampire"/>
 
 ## 👾 Vampire Bloodlines: The Masquerade mod fix
 **PYTHON**
@@ -278,7 +352,11 @@ CSS | OBS | TWITCH | YOUTUBE
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/moddingB.jpg" width="200" />
 
+<a name="internet"/>
+
 # 🏆 🔘 📡 Internet of Things
+
+<a name="arduino"/>
 
 ## 📡 Arduino to Android Sensors Device
 **ARDUINO | ANDROID | JAVA**
@@ -293,6 +371,7 @@ CSS | OBS | TWITCH | YOUTUBE
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/arduinoAndroidB.jpg" width="200" />
 
+<a name="web"/>
 
 # 🏆 🔵 🌐 Web & CMS
 
