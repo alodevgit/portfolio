@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "url": "https://raw.githubusercontent.com/alodevgit/portfolio/main/pdfs/thumbswebp/sc0.webp",
+     "date": "12/27/2024",
+    "pdf": "https://raw.githubusercontent.com/alodevgit/portfolio/main/pdfs/files/OPORTUNIDADES_RH_Y_CANDIDATOS_ENE24_reduced.pdf"
+  },
+  {
+    "id": 2,
+    "url": "https://raw.githubusercontent.com/alodevgit/portfolio/main/pdfs/thumbswebp/sc1.webp",
+    "date": "12/27/2023",
+    "pdf": "https://raw.githubusercontent.com/alodevgit/portfolio/main/pdfs/files/OPORTUNIDADES_RH_RYS_ENERO_10_reduced.pdf"
+  }
+]
