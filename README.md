@@ -1,5 +1,6 @@
 # PORTFOLIO
 
+- [🏆 🔰 🎥 Video Pitch](#video)
 - [🏆 🟤 🤖 AI Projects](#ai)
   * [🤖 LinkedIn Job/Candidate Hunter Magazine App](#finder)
   * [🤖 Offline Usable and Distributed, public transportation planner & offer finder app](#transport)
@@ -30,6 +31,12 @@
 - [🏆 🔘 📡 Internet of Things](#internet)
   * [📡 Arduino to Android Sensors Device](#arduino)
 - [🏆 🔵 🌐 Web & CMS](#web)
+
+<a name="video"/>
+
+# 🏆 🔰 🎥 Video Pitch
+
+<video src="https://raw.githubusercontent.com/alodevgit/portfolio/main/videopitch.webm" width="600" />
 
 <a name="ai"/>
 
