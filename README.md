@@ -36,7 +36,7 @@
 
 # 🏆 🔰 🎥 Video Pitch
 
-<video src="https://raw.githubusercontent.com/alodevgit/portfolio/main/videopitch.webm" width="600" />
+https://github.com/user-attachments/assets/62645289-5e79-4353-8b21-6a7e2cdbc825
 
 <a name="ai"/>
 
