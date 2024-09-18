@@ -1,5 +1,5 @@
 # PORTFOLIO
-
+These are my disclosable projects I have worked on
 - [🏆 🔰 🎥 Video Pitch](#video)
 - [🏆 🟤 🤖 AI Projects](#ai)
   * [🤖 LinkedIn Job/Candidate Hunter Magazine App](#finder)
@@ -55,6 +55,8 @@
 
 
 **Skills:** Android · LinkedIn · HTML5 · Python (Programming Language) · Artificial Intelligence (AI) · JSON · Microsoft Excel
+
+<a href="https://raw.githubusercontent.com/alodevgit/portfolio/main/releases/RHsemanal.apk">Download here</a>
 
 <img src="https://github.com/alodevgit/portfolio/blob/main/images/magazineB.png" width="200" />
 
