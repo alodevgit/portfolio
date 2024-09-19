@@ -1,6 +1,7 @@
 # PORTFOLIO
 These are my disclosable projects I have worked on
 - [🏆 🔰 🎥 Video Pitch](#video)
+- [🏆 🔰 🏅 Results](#video)
 - [🏆 🟤 🤖 AI Projects](#ai)
   * [🤖 LinkedIn Job/Candidate Hunter Magazine App](#finder)
   * [🤖 Offline Usable and Distributed, public transportation planner & offer finder app](#transport)
@@ -37,6 +38,24 @@ These are my disclosable projects I have worked on
 # 🏆 🔰 🎥 Video Pitch
 
 [Video Pitch](https://github.com/user-attachments/assets/0b593e7f-1821-43cd-a491-1b51b6d3eec9)
+
+<a name="results"/>
+
+# 🏆 🔰 🏅 Results
+
+650k - 80k 🔹 Active users
+100k - Hours of Watch time
+65 + Apps published
+28 + Personal side projects
+7 + Inhouse mobile apps
+5 + Interns trained in Mobile Dev
+1 + PhD collaboration project
+1 + AI mobile app 🔹 Shown @ Dallas TX 🔸 Collab w/ big tech corporation
+1 + Startup project 🔹 Won an award 🔸 Pitched @ Sillicon Valley & Stanford U
+📢+ Made social media interactables 🔹 Millennial & Gen Z marketing
+🧿+ Added accessibility to apps
+📽️+ 6 hour live streams hosted
+👾+ Made videogame mods
 
 
 <a name="ai"/>
