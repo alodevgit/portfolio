@@ -1,4 +1,4 @@
-#How to install?
+# How to install?
 
 Since this app is here in a repo and not in the stores you need to install it as an inhouse app
 🇲🇽 Tutorial en latino 🇪🇸
