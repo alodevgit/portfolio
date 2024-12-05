@@ -100,5 +100,18 @@
 	    "url": "https://raw.githubusercontent.com/alodevgit/portfolio/main/pdfs/thumbswebp/sc16.webp",
 	     "date": "11/26/2024",
 	    "pdf": "https://raw.githubusercontent.com/alodevgit/portfolio/main/pdfs/files/OPORTUNIDADES_RH_RYS_CANDIDATOS_NOV26_r.pdf"
+	  }, 
+	     {
+	    "id": 18,
+	    "url": "https://raw.githubusercontent.com/alodevgit/portfolio/main/pdfs/thumbswebp/sc17.webp",
+	     "date": "12/03/2024",
+	    "pdf": "https://raw.githubusercontent.com/alodevgit/portfolio/main/pdfs/files/OPORTUNIDADES_RH_RYS_CANDIDATOS_DIC_3_2024.pdf"
+	  }
+		, 
+	     {
+	    "id": 19,
+	    "url": "https://raw.githubusercontent.com/alodevgit/portfolio/main/pdfs/thumbswebp/sc18.webp",
+	     "date": "12/05/2024",
+	    "pdf": "https://raw.githubusercontent.com/alodevgit/portfolio/main/pdfs/files/OPORTUNIDADES_RH_RYS_CANDIDATOS_DIC4y5_2024_.pdf"
 	  }
 	]
