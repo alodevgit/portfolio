@@ -10,6 +10,12 @@
   <img  src="https://github.com/alodevgit/portfolio/blob/main/links/pics/githubbutton.png" width="200" />
 </a>
 
+## Resume (WIP)
+
+<a href="https://lnkd.in/diQmDHa6">
+  <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/resumebutton.png" width="200" />
+</a>
+
 ## VideoPitch
 
 <a href="https://lnkd.in/ddGCxxui">
@@ -31,11 +37,5 @@
 ## My Apps (WIP)
 
 <a href="https://lnkd.in/dVJVV9vV">
-  <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/appbutton.png" width="200" />
-</a>
-
-## Resume
-
-<a href="https://lnkd.in/diQmDHa6">
-  <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/resumebutton.png" width="200" />
+  <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/androidbutton.png" width="200" />
 </a>
