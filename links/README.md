@@ -18,7 +18,7 @@
 
 ## AI HR Magazines
 
-<a href="https://lnkd.in/ddGCxxui">
+<a href="https://lnkd.in/dWAt3NVW">
   <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/readbutton.png" width="200" />
 </a>
 
@@ -30,7 +30,7 @@
 
 ## My Apps (WIP)
 
-<a href="https://lnkd.in/diQmDHa6">
+<a href="https://lnkd.in/dVJVV9vV">
   <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/appbutton.png" width="200" />
 </a>
 
