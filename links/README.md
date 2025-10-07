@@ -12,7 +12,7 @@
 
 ## Resume (WIP)
 
-<a href="https://lnkd.in/diQmDHa6">
+<a href="https://media.licdn.com/dms/document/media/v2/D4D2DAQFfU1Y1Hsonmw/profile-treasury-document-pdf-analyzed/B4DZm_9e3fHYAg-/0/1759862197979?e=1760572800&v=beta&t=ymaq6qOljHWNTvB2knbOSKvGDI2L6qiUDQulL-q3y54">
   <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/resumebutton.png" width="200" />
 </a>
 
