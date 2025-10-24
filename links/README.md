@@ -34,8 +34,11 @@
 <table style="border-collapse: collapse;">
   <tr>
     <th>Dark Mode</th>
-    <th>Columns Mode</th>
     <th>Light Mode</th>
+    <th>Dark Mode Sorted</th>
+    <th>Light Mode Sorted</th>
+    <th>Columns Mode</th>
+
   </tr>
   <tr>
     <td>      
@@ -43,15 +46,26 @@
         <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume.png" width="200" />
       </a>
     </td>
-     <td>
-        <a href="https://www.linkedin.com/in/golden-dev/details/education/1761097889160/single-media-viewer/?_l=en_US">
-          <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume_vert.png" width="200" />
-        </a>
-    </td>
       <td>
       <a href="https://www.linkedin.com/in/golden-dev/details/education/1761097889159/single-media-viewer/?_l=en_US">
         <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume_light.png" width="200" />
       </a>
+    </td>
+    </td>
+     <td>
+        <a href="https://www.linkedin.com/in/golden-dev/details/education/1761097889160/single-media-viewer/?_l=en_US">
+          <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume_sorted.png" width="200" />
+        </a>
+    </td>
+      <td>
+      <a href="https://www.linkedin.com/in/golden-dev/details/education/1761097889159/single-media-viewer/?_l=en_US">
+        <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume_light_sorted.png" width="200" />
+      </a>
+    </td>
+    <td>
+        <a href="https://www.linkedin.com/in/golden-dev/details/education/1761097889160/single-media-viewer/?_l=en_US">
+          <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume_vert.png" width="200" />
+        </a>
     </td>
   </tr>
   
