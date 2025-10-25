@@ -33,14 +33,24 @@
 
 <table style="border-collapse: collapse;">
   <tr>
-    <th>Dark Mode</th>
-    <th>Light Mode</th>
-    <th>Dark Mode Sorted</th>
-    <th>Light Mode Sorted</th>
-    <th>Columns Mode</th>
+    <th>Dark Mode Skills Sorted (Recommended) </th>
+    <th>Light Mode Skills Sorted (Recommended)</th>
+    <th>Dark Mode Skills by Category</th>
+    <th>Light Mode Skills by Category</th>
+    <th>Columns Mode Skills by Company</th>
 
   </tr>
   <tr>
+    <td>
+        <a href="https://www.linkedin.com/in/golden-dev/details/education/1761352306970/single-media-viewer/?_l=en_US">
+          <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume_sorted.png" width="200" />
+        </a>
+    </td>
+      <td>
+      <a href="https://www.linkedin.com/in/golden-dev/details/education/1761352306971/single-media-viewer/?_l=en_US">
+        <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume_light_sorted.png" width="200" />
+      </a>
+    </td>
     <td>      
       <a href="https://www.linkedin.com/in/golden-dev/details/education/1761097391798/single-media-viewer/?_l=en_US">
         <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume.png" width="200" />
@@ -51,16 +61,6 @@
         <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume_light.png" width="200" />
       </a>
     </td>
-    </td>
-     <td>
-        <a href="https://www.linkedin.com/in/golden-dev/details/education/1761097889160/single-media-viewer/?_l=en_US">
-          <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume_sorted.png" width="200" />
-        </a>
-    </td>
-      <td>
-      <a href="https://www.linkedin.com/in/golden-dev/details/education/1761097889159/single-media-viewer/?_l=en_US">
-        <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_resume_light_sorted.png" width="200" />
-      </a>
     </td>
     <td>
         <a href="https://www.linkedin.com/in/golden-dev/details/education/1761097889160/single-media-viewer/?_l=en_US">
