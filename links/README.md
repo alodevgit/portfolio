@@ -1,5 +1,5 @@
 ## Resume (WIP)
-### [📑 9 Formats Scroll or click here 👈 ](#resumes)
+### [📑 8 Formats Scroll or click here 👈 ](#resumes)
 
 ## Linkedin
 
