@@ -108,14 +108,14 @@
 
 ## My Apps (WIP)
 
-<a href="https://lnkd.in/dVJVV9vV">
+<a href="https://lnkd.in/dVJVV9vV" name="resumes">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/buttons_android.png" width="200" />
 </a>
 
 
 ## Resume (WIP)
   ##### Dark  Mode Skills Sorted Alphabetically A - Z (Recommended)
-  <a href="https://www.linkedin.com/in/golden-dev/details/education/1761854768085/single-media-viewer/?_l=en_US" name="resumes">
+  <a href="https://www.linkedin.com/in/golden-dev/details/education/1761854768085/single-media-viewer/?_l=en_US">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_dark_az.png" width="200" />
   </a>
   
