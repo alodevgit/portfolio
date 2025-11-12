@@ -115,36 +115,36 @@
 
 ## Resume (WIP)
   ##### Dark  Mode - Skills Sorted Alphabetically A - Z (Recommended)
-  <a href="https://www.linkedin.com/in/golden-dev/details/education/1761854768085/single-media-viewer/?_l=en_US">
+  <a href="https://www.linkedin.com/in/golden-dev/details/education/1762940591091/single-media-viewer/?_l=en_US">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_dark_az.png" width="200" />
   </a>
   
   ##### Light Mode - Skills Sorted Alphabetically A - Z (Recommended)
-  <a href="https://www.linkedin.com/in/golden-dev/details/education/1761854768086/single-media-viewer/?_l=en_US">
+  <a href="https://www.linkedin.com/in/golden-dev/details/education/1762940136599/single-media-viewer/?_l=en_US">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_light_az.png" width="200" />
   </a>
   
   ##### Dark  Mode - Skills Sorted by role Category
-  <a href="https://www.linkedin.com/in/golden-dev/details/education/1761854768087/single-media-viewer/?_l=en_US">
+  <a href="https://www.linkedin.com/in/golden-dev/details/education/1762940591094/single-media-viewer/?_l=en_US">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_dark_categories.png" width="200" />
   </a>
 
   ##### Light Mode - Skills Sorted by role Category
-  <a href="https://www.linkedin.com/in/golden-dev/details/education/1761854768088/single-media-viewer/?_l=en_US">
+  <a href="https://www.linkedin.com/in/golden-dev/details/education/1762940136601/single-media-viewer/?_l=en_US">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_light_categories.png" width="200" />
   </a>
   
   ##### Dark Mode - Plain Text
-  <a href="https://www.linkedin.com/in/golden-dev/details/education/1761854768088/single-media-viewer/?_l=en_US">
+  <a href="https://www.linkedin.com/in/golden-dev/details/education/1762939473913/single-media-viewer/?_l=en_US">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_dark_ats.png" width="200" />
   </a>
   
   ##### Light Mode - Plain Text
-  <a href="https://www.linkedin.com/in/golden-dev/details/education/1761854768088/single-media-viewer/?_l=en_US">
+  <a href="https://www.linkedin.com/in/golden-dev/details/education/1762940136598/single-media-viewer/?_l=en_US">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_light_ats.png" width="200" />
   </a>
   
   ##### Dark  Mode - Skills Sorted by role Company
-  <a href="https://www.linkedin.com/in/golden-dev/details/education/1761854768089/single-media-viewer/?_l=en_US">
+  <a href="https://www.linkedin.com/in/golden-dev/details/education/1762940136597/single-media-viewer/?_l=en_US">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_dark_company.png" width="200" />
   </a>
