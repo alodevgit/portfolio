@@ -1,10 +1,14 @@
-## Resume (WIP)
-### [📑 8 Formats Scroll or click here 👈 ](#resumes)
-
+  
 ## Linkedin
 
 <a href="https://lnkd.in/dayda9nB">
   <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_linkedin.png" width="200" />
+</a>
+
+## Resume (WIP)
+
+<a href="https://www.linkedin.com/in/golden-dev/details/education/1763762503616/single-media-viewer/?_l=en_US">
+    <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_dark_az.png" width="200" />
 </a>
 
 ## Portfolio
@@ -112,7 +116,8 @@
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/buttons_android.png" width="200" />
 </a>
 
-
+<!--
+### [📑 8 Formats Scroll or click here 👈 ](#resumes)
 ## Resume (WIP)
   ##### Dark  Mode - Skills Sorted Alphabetically A - Z (Recommended)
   <a href="https://www.linkedin.com/in/golden-dev/details/education/1762940591091/single-media-viewer/?_l=en_US">
@@ -147,4 +152,4 @@
   ##### Dark  Mode - Skills Sorted by role Company
   <a href="https://www.linkedin.com/in/golden-dev/details/education/1762940136597/single-media-viewer/?_l=en_US">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_dark_company.png" width="200" />
-  </a>
+  </a -->
