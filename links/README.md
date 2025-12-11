@@ -7,7 +7,7 @@
 
 ## Resume (WIP)
 
-<a href="https://www.linkedin.com/in/golden-dev/details/education/1763762503616/single-media-viewer/?_l=en_US">
+<a href="https://www.linkedin.com/in/golden-dev/details/education/1765494588006/single-media-viewer/?_l=en_US">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_dark_az.png" width="200" />
 </a>
 
