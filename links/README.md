@@ -1,14 +1,14 @@
-  
-## Linkedin
-
-<a href="https://lnkd.in/dayda9nB">
-  <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_linkedin.png" width="200" />
-</a>
-
 ## Resume (WIP)
 
 <a href="https://www.linkedin.com/in/golden-dev/details/education/1765494588006/single-media-viewer/?_l=en_US">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_dark_az.png" width="200" />
+</a>
+
+
+## Linkedin
+
+<a href="https://lnkd.in/dayda9nB">
+  <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_linkedin.png" width="200" />
 </a>
 
 ## Portfolio
