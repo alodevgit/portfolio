@@ -1,6 +1,6 @@
 ## Resume (WIP)
 
-<a href="https://www.linkedin.com/in/golden-dev/overlay/Education/">
+<a href="https://www.linkedin.com/in/golden-dev/details/education/">
     <img src="https://github.com/alodevgit/portfolio/blob/main/links/pics/button_dark_az.png" width="200" />
 </a>
 
